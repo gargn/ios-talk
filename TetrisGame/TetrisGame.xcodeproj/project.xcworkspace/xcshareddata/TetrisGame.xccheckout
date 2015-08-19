@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>71ADF6BF-E35B-49B7-92DD-8964131079B1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CDDD167DE06710F38354FBD182673FD5F54F0E2D</key>
+		<string>ssh://git.corp.squareup.com/ihw/codecampios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TetrisGame/TetrisGame.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CDDD167DE06710F38354FBD182673FD5F54F0E2D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.corp.squareup.com/ihw/codecampios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CDDD167DE06710F38354FBD182673FD5F54F0E2D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CDDD167DE06710F38354FBD182673FD5F54F0E2D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>codecampios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
